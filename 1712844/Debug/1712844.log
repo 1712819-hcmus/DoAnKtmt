@@ -1,0 +1,20 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project8.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  Function.cpp
+c:\users\admin\source\repos\1712844\1712844\function.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\1712844\1712844\function.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\1712844\1712844\function.cpp(154): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\1712844\1712844\function.cpp(414): warning C4101: 'c': unreferenced local variable
+c:\users\admin\source\repos\1712844\1712844\function.cpp(618): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\1712844\1712844\function.cpp(631): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\1712844\1712844\function.cpp(650): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\1712844\1712844\function.cpp(684): warning C4018: '>': signed/unsigned mismatch
+c:\users\admin\source\repos\1712844\1712844\function.cpp(716): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\1712844\1712844\function.cpp(782): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\source\repos\1712844\1712844\function.cpp(791): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+c:\users\admin\source\repos\1712844\1712844\function.cpp(879): warning C4715: 'QFloat::PrintQFloat': not all control paths return a value
+c:\users\admin\source\repos\1712844\1712844\function.cpp(70): warning C4715: 'QInt::PrinQInt': not all control paths return a value
+c:\users\admin\source\repos\1712844\1712844\function.cpp(314): warning C4715: 'QInt::DemBit': not all control paths return a value
+  1712844.vcxproj -> C:\Users\Admin\source\repos\1712844\1712844\Debug\1712844.exe
+  1712844.vcxproj -> C:\Users\Admin\source\repos\1712844\1712844\Debug\1712844.pdb (Partial PDB)
